@@ -1,0 +1,12 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {chapter}{\numberline {1}I software}{2}
+\contentsline {section}{\numberline {1.1}Requisiti}{2}
+\contentsline {chapter}{\numberline {2}I coefficienti}{3}
+\contentsline {section}{\numberline {2.1}Dislocamento}{3}
+\contentsline {section}{\numberline {2.2}Coefficienti di finezza}{3}
+\contentsline {subsection}{\numberline {2.2.1}Coefficiente prismatico o di blocco}{3}
+\contentsline {subsection}{\numberline {2.2.2}Coefficiente di finezza della sezione maestra}{3}
+\contentsline {subsection}{\numberline {2.2.3}Coefficiente di finezza al galleggiamento}{3}
+\contentsline {chapter}{\numberline {3}La stabilit\IeC {\`a}}{4}
+\contentsline {chapter}{\numberline {4}Dinamica della barca}{6}
