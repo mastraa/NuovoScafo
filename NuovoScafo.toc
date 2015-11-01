@@ -9,4 +9,7 @@
 \contentsline {subsection}{\numberline {2.2.2}Coefficiente di finezza della sezione maestra}{3}
 \contentsline {subsection}{\numberline {2.2.3}Coefficiente di finezza al galleggiamento}{3}
 \contentsline {chapter}{\numberline {3}La stabilit\IeC {\`a}}{4}
+\contentsline {section}{\numberline {3.1}Obiettivo}{4}
+\contentsline {section}{\numberline {3.2}Stabilit\IeC {\`a} di peso}{4}
+\contentsline {section}{\numberline {3.3}Stabilit\IeC {\`a} di forma}{5}
 \contentsline {chapter}{\numberline {4}Dinamica della barca}{6}

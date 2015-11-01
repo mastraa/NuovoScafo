@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.17)  1 NOV 2015 14:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.1)  1 NOV 2015 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **NuovoScafo.tex
 (./NuovoScafo.tex
-LaTeX2e <2015/10/01> patch level 1
+LaTeX2e <2015/10/01> patch level 2
 Babel <3.9m> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
@@ -338,17 +338,17 @@ Capitolo 2.
 
 ]
 Capitolo 3.
-) (./capitoli/dinamica.tex [4
+[4
 
-] [5]
+]) (./capitoli/dinamica.tex [5]
 Capitolo 4.
 ) [6
 
 ] (./NuovoScafo.aux) ) 
 Here is how much of TeX's memory you used:
  1501 strings out of 493054
- 16583 string characters out of 6134759
- 83060 words of memory out of 5000000
+ 16583 string characters out of 6134760
+ 83062 words of memory out of 5000000
  5034 multiletter control sequences out of 15000+600000
  15791 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -364,7 +364,7 @@ x2074.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2
 5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pf
 b>
-Output written on NuovoScafo.pdf (8 pages, 138550 bytes).
+Output written on NuovoScafo.pdf (8 pages, 144229 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
