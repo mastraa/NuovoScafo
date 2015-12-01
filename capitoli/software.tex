@@ -1,2 +1,30 @@
 \chapter{I software}
-\section{Requisiti}
+	\section{Requisiti}
+	Sebbene un software CAD 2D possa essere sufficiente per la modellazione delle linee d'acqua e di tutte le strutture della barca, visto che il mercato ci mette a disposizione numerosi software è bene fare una valutazione di quello che ci serve e ci può essere utile e utilizzare il supporto adeguato per ogni fase del processo.
+	Innanzitutto dobbiamo disegnare le linee d'acqua e per questo ci viene utile un software adatto alla modellazione di superfici e che magari abbia determinati strumenti 'immediati' per il calcolo di alcuni coefficienti illustrati a pagina  \pageref{chap:coefficienti}.
+	A questo punto abbiamo bisogno di un modellatore per la coperta ed eventuali altre componentistiche per la barca, la soluzione può essere un disegnatore diretto, ma con un buono studio preliminare di quello che sarà il lavoro e le eventuali modifiche iterative si può utilizzare un software di disegno parametrico, più macchinoso in partenza, ma sicuramente più veloce quando dovremo effettuare delle modifiche.
+	Per il disegno delle vele sono presenti diversi
+	Per il disegno delle appendici
+	Necessitiamo infine di software in grado di effettuare analisi FEM e CFD.
+	
+	Infine si può optare per l'utilizzo di un disegnatore diretto per raggruppare i risultati di tutto il lavoro in modo da averli comodi a portata di mano.
+	
+	\section{Maxsurf}
+	Per il disegno delle linee d'acqua abbiamo adottato il software Maxsurf che oltre ad un buon modellatore di superfici fornisce alcuni supporti per il calcolo dei coefficienti della barca e due strumenti per l'analisi della stabilità e della fluidodinamica.
+	Esistono comunque delle soluzioni gratuite come DELFTShip o FreeCAD con il suo modulo Ship che possono fare al caso nostro.
+	
+	\section{SolidWorks}
+	Per il disegno della coperta e delle componenti meccaniche abbiamo invece utilizzato SolidWorks, ma valide alternative sono Creo o CATIA. Tutti questi permettono, oltre al disegno di parti in modo parametrico e la successiva unione in complessivi, anche analisi FEM sul pezzo. Nessuno di questi è un ottimo modellatore di superfici per le quali forse andrebbero meglio SolidEdge o Rhinoceros, quest'ultimo però non è parametrico, cosa che, se ben sfruttata, offre un grosso vantaggio quando il processo di modellazione è cicliclo come nel nostro caso.
+	
+	\section{Analisi FEM e CFD}
+	Per le simulazioni meccaniche abbiamo utilizzato in parte il simulatore presente dentro al modellatore CAD utilizzato e in parte Ansys, quest'ultimo è un po' ostico per chi è alle prime armi, ma costituisce lo standard per questo tipo di strumento.
+	
+	Le simulazioni CFD sono invece state fatte con StarCCM, software della CD-Adapco che ci ha offerto un monte ore di simulazione.
+	
+	Infine si può utilizzare, per purà comodità, un meshatore esterno come Hypermesh che garantisce un controllo della mesh molto migliore di quello che si avrebbe importando il modello in Ansys dal CAD e meshandolo da li.
+	
+	\section{Complessivo}
+	Come detto in precedenza può essere utile comporre il tutto in un software diretto che permetta di avere a portata di mano rapidamente tutto il lavoro, che permetta di spezzettarlo e manipolarlo in modo veloce, cosa per cui un software parametrico sarebbe troppo macchinoso. Abbiamo adottato Rhinoceros.
+	
+	\section{Disegno delle vele}
+	Smar Azure e Rhino

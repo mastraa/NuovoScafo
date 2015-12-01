@@ -3,6 +3,10 @@
 \usepackage[utf8]{inputenc}			%codifica caratteri (accenti)
 \usepackage[english, italian]{babel}	%sillabazione, per ultimo il dizionario principale
 
+ \usepackage[autostyle,italian=guillemets]{csquotes}
+ \usepackage[backend=biber]{biblatex}
+\addbibresource{biblio.bib}
+
 % Title Page
 \title{Design di una nuova imbarcazione}
 \author{Andrea Mastrangelo, Alessandro Pera}
@@ -23,4 +27,8 @@
 \input{capitoli/stabilita}
 \input{capitoli/dinamica}
 
-\end{document}          
+\nocite{*}
+\printbibliography
+\end{document}
+
+         
