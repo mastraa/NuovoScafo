@@ -4,38 +4,58 @@
 \defcounter {refsection}{0}\relax 
 \select@language {italian}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}I software}{2}
+\contentsline {chapter}{\numberline {1}I software}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Requisiti}{2}
+\contentsline {section}{\numberline {1.1}Requisiti}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Maxsurf}{2}
+\contentsline {section}{\numberline {1.2}Maxsurf}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}SolidWorks}{3}
+\contentsline {section}{\numberline {1.3}SolidWorks}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Analisi FEM e CFD}{3}
+\contentsline {section}{\numberline {1.4}Analisi FEM e CFD}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Complessivo}{3}
+\contentsline {section}{\numberline {1.5}Complessivo}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.6}Disegno delle vele}{3}
+\contentsline {section}{\numberline {1.6}Disegno delle vele}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}I coefficienti}{4}
+\contentsline {chapter}{\numberline {2}I coefficienti}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Dislocamento}{4}
+\contentsline {section}{\numberline {2.1}Dislocamento}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Coefficienti di finezza}{4}
+\contentsline {section}{\numberline {2.2}Coefficienti di finezza}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Coefficiente prismatico o di blocco}{4}
+\contentsline {subsection}{\numberline {2.2.1}Coefficiente prismatico o di blocco}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Coefficiente di finezza della sezione maestra}{4}
+\contentsline {subsection}{\numberline {2.2.2}Coefficiente di finezza della sezione maestra}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}Coefficiente di finezza al galleggiamento}{4}
+\contentsline {subsection}{\numberline {2.2.3}Coefficiente di finezza al galleggiamento}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}La stabilit\IeC {\`a}}{5}
+\contentsline {chapter}{\numberline {3}La stabilit\IeC {\`a}}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Obiettivo}{5}
+\contentsline {section}{\numberline {3.1}Obiettivo}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Stabilit\IeC {\`a} di peso}{5}
+\contentsline {section}{\numberline {3.2}Stabilit\IeC {\`a} di peso}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Stabilit\IeC {\`a} di forma}{6}
+\contentsline {section}{\numberline {3.3}Stabilit\IeC {\`a} di forma}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Dinamica della barca}{7}
+\contentsline {chapter}{\numberline {4}Dinamica della barca}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Storia ed evoluzione}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Dalla nascita della navigazione allo yachting}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Le origini}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Lo Yachting}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Le origini in Olanda}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}I primi sviluppi}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Stazze}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}Tonnage Rule}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Stazza del Tamigi}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3}In America}{11}

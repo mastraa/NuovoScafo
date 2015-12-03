@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.31)  1 DEC 2015 16:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.31)  2 DEC 2015 20:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -560,104 +560,130 @@ File: italian.lbx 2015/10/21 v3.1 biblatex localization (PK/JW/AB)
 (./NuovoScafo.aux)
 \openout1 = `NuovoScafo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Info: Redefining \it@ocap on input line 15.
-LaTeX Info: Redefining \it@ccap on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Info: Redefining \it@ocap on input line 22.
+LaTeX Info: Redefining \it@ccap on input line 22.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 \openout3 = `NuovoScafo.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'NuovoScafo.bbl' not found.
+Package biblatex Info: ... file 'NuovoScafo.bbl' found.
+ (./NuovoScafo.bbl
 
-No file NuovoScafo.bbl.
-Package biblatex Info: Reference section=0 on input line 15.
-Package biblatex Info: Reference segment=0 on input line 15.
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'art:sounding':
+(biblatex)                - Name "M.Poli, C.Bettanini, N.Bressanin, S.Debei, E.
+Di Iorio, A.Madonna, A.Mastrangelo, M.Pezzato, F.Rodighiero, G.Venturelli" has 
+too many commas: skipping name.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'url:madgwick':
+(biblatex)                - Datamodel: Entry 'url:madgwick' (biblio.bib): Inval
+id format 'http://www.x-io.co.uk' of date field 'urldate' - ignoring.
+
+)
+Package biblatex Info: Reference section=0 on input line 22.
+Package biblatex Info: Reference segment=0 on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 16.
+(Font)              <12> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 16.
+(Font)              <8> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 16.
-[1
+(Font)              <6> on input line 23.
+ [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [1] (./NuovoScafo.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 9.
-)
+ [1
+
+])
 \tf@toc=\write4
 \openout4 = `NuovoScafo.toc'.
 
- (./capitoli/software.tex [1
-
-]
+ (./capitoli/software.tex [2]
 Capitolo 1.
-[2
+[3
 
-]) (./capitoli/coefficienti.tex [3]
+]) (./capitoli/coefficienti.tex [4]
 Capitolo 2.
-) (./capitoli/stabilita.tex [4
+) (./capitoli/stabilita.tex [5
 
 ]
 Capitolo 3.
-[5
+[6
 
-]) (./capitoli/dinamica.tex [6]
+]) (./capitoli/dinamica.tex [7]
 Capitolo 4.
-)
+) (./capitoli/storia.tex [8
 
-LaTeX Warning: Empty bibliography on input line 31.
+]
+Capitolo 5.
+[9
 
-[7
+] [10]) [11]
+
+Package biblatex Warning: No driver for entry type 'url'.
+(biblatex)                Using fallback driver on input line 39.
+
+
+Overfull \hbox (4.69571pt too wide) in paragraph at lines 40--40
+[]\T1/cmr/m/n/10.95 Sebastian O.H. Madg-wick. \T1/cmr/m/it/10.95 http://www.x-i
+o.co.uk/open-source-imu-and-
+ []
+
+
+Package biblatex Warning: No driver for entry type 'jurthesis'.
+(biblatex)                Using fallback driver on input line 39.
+
+[12
 
 ] (./NuovoScafo.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                NuovoScafo
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'NuovoScafo.run.xml'.
 \openout1 = `NuovoScafo.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 7298 strings out of 493054
- 120750 string characters out of 6134759
- 536785 words of memory out of 5000000
- 10748 multiletter control sequences out of 15000+600000
- 15791 words of font info for 37 fonts, out of 8000000 for 9000
+ 7454 strings out of 493054
+ 123684 string characters out of 6134759
+ 537874 words of memory out of 5000000
+ 10898 multiletter control sequences out of 15000+600000
+ 16480 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,6n,32p,775b,1140s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,6n,45p,1758b,1140s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on NuovoScafo.pdf (9 pages, 152276 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on NuovoScafo.pdf (14 pages, 228700 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 103 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

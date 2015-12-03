@@ -1,0 +1,204 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nty}{nty}
+    \entry{art:sounding}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Nimbus Project team, made of young engineers and university students, has developed a sounding rocket with the main aim to engineer a reusable, cost-effective test bench. This makes it possible to field test many aerospace technologies as guidance or reentry systems, enable airborne atmospheric measurements and high altitude students' experiments. The modular architecture allows the use of different payloads, composite material structures increase lightness while off-the-shelf components reduce costs; ease of transportation and usability qualify it as an extremely versatile platform. The system is scalable to carry heavier payloads and to perform scientific tests at higher altitudes. The technology demonstrator is going to reach an altitude of 1000m with cost-effective technology and components. Demonstrator's subsystems (rocket motor, main frame, chute deploy system, etc) have been both ground and flight tested and have shown an optimal accordance between theoretical model and testing. The demonstrator launch took place on 29th March 2015.}
+      \field{annotation}{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7180721&queryText=rodighiero&newsearch=true&searchField=Search_All}
+      \field{journaltitle}{Metrology For Aerospace (MetroAeroSpace), IEEE}
+      \field{month}{06}
+      \field{title}{A sounding rocket as a test bench for cost effective measurements: Development of a sounding rocket demonstrator test bench for aerospace technologies and atmospheric measurements}
+      \field{year}{2015}
+      \field{pages}{574\bibrangedash 579}
+      \range{pages}{6}
+      \warn{\item Name "M.Poli, C.Bettanini, N.Bressanin, S.Debei, E.Di Iorio, A.Madonna, A.Mastrangelo, M.Pezzato, F.Rodighiero, G.Venturelli" has too many commas: skipping name}
+    \endentry
+    \entry{book:evoluzionedesign}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fc9d20a5b0d6148d268bfbb61a16cdb2}{Adrian\bibnamedelima Lee}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{Ruby\bibnamedelima Philpott}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fc9d20a5b0d6148d268bfbb61a16cdb2}
+      \strng{fullhash}{fc9d20a5b0d6148d268bfbb61a16cdb2}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Laurent Gilles}
+      \field{year}{2004}
+    \endentry
+    \entry{ID}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ae414d02627d184aefec5adf641506d3}{Fiammenghi}{F\bibinitperiod}{Pietro}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ae414d02627d184aefec5adf641506d3}
+      \strng{fullhash}{ae414d02627d184aefec5adf641506d3}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SoloVela}
+      \field{title}{Stazza, la legge e l'inganno}
+      \field{year}{2003}
+    \endentry
+    \entry{book:FisicaVela}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2d1d398e4750fef5ab815baa072ff4a2}{Garrett}{G\bibinitperiod}{Ross}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=500937ebd71362f266f24dd0963711a3}{Zanichelli}{Z\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{2d1d398e4750fef5ab815baa072ff4a2}
+      \strng{fullhash}{2d1d398e4750fef5ab815baa072ff4a2}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fisica della Vela}
+      \field{year}{1990}
+    \endentry
+    \entry{book:StoriaGiorgetti}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e77541caa0b6d839571a96077731e6dd}{Giorgetti}{G\bibinitperiod}{Franco}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {White Star}%
+      }
+      \strng{namehash}{e77541caa0b6d839571a96077731e6dd}
+      \strng{fullhash}{e77541caa0b6d839571a96077731e6dd}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Storia ed Evoluzione degli Yacht da Regata}
+      \field{year}{2000}
+    \endentry
+    \entry{rep:madgwick}{report}{}
+      \name{author}{1}{}{%
+        {{hash=e637f3385b9c8b52ede7d36e94dc600e}{Madgwick}{M\bibinitperiod}{Sebastian\bibnamedelima O.H.}{S\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Bristol University}%
+      }
+      \strng{namehash}{e637f3385b9c8b52ede7d36e94dc600e}
+      \strng{fullhash}{e637f3385b9c8b52ede7d36e94dc600e}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This report presents a novel orientation filter applicable to IMUs consisting of tri-axis gyroscopes and accelerometers, and MARG sensor arrays that also include tri-axis magnetometers. The MARG implementation incorporates magnetic distortion and gyroscope bias drift compensation. The filter uses a quaternion representation, allowing accelerometer and magnetometer data to be used in an analytically derived and optimised gradient-descent algorithm to compute the direction of the gyroscope measurement error as a quaternion derivative. The benefits of the filter include: (1) computationally inexpensive; requiring 109 (IMU) or 277 (MARG) scalar arithmetic operations each filter update, (2) effective at low sampling rates; e.g. 10 Hz, and (3) contains 1 (IMU) or 2 (MARG) adjustable parameters defined by observable system characteristics. Performance was evaluated empirically using a commercially available orientation sensor and reference measurements of orientation obtained using an optical measurement system. A simple calibration method is presented for the use of the optical measurement equipment in this application. Performance was also benchmarked against the propriety Kalman-based algorithm of orientation sensor. Results indicate the filter achieves levels of accuracy exceeding that of the Kalman-based algorithm; < 0.6◦ static RMS error, < 0.8◦ dynamic RMS error. The implications of the low computational load and ability to operate at low sampling rates open new opportunities for the use of IMU and MARG sensor arrays in real-time applications of limited power or processing resources or applications that demand extremely high sampling rates.}
+      \field{title}{An efficient orientation filter for inertial and inertial/magnetic sensor arrays}
+      \field{type}{techreport}
+      \field{year}{2010}
+    \endentry
+    \entry{url:madgwick}{url}{}
+      \name{author}{1}{}{%
+        {{hash=e637f3385b9c8b52ede7d36e94dc600e}{Madgwick}{M\bibinitperiod}{Sebastian\bibnamedelima O.H.}{S\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e637f3385b9c8b52ede7d36e94dc600e}
+      \strng{fullhash}{e637f3385b9c8b52ede7d36e94dc600e}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{http://www.x-io.co.uk/open-source-imu-and-ahrs-algorithms/}
+      \warn{\item Datamodel: Entry 'url:madgwick' (biblio.bib): Invalid format 'http://www.x-io.co.uk' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{tesi:mastra}{jurthesis}{}
+      \name{author}{1}{}{%
+        {{hash=0f0fa2f7a6eaaadafff8cbc3aef4ffb8}{Mastrangelo}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Facoltà di Ingegneria Meccanica, Università degli Studi di Padova}%
+      }
+      \strng{namehash}{0f0fa2f7a6eaaadafff8cbc3aef4ffb8}
+      \strng{fullhash}{0f0fa2f7a6eaaadafff8cbc3aef4ffb8}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Disegno e verifica di un datalogger basato su Arduino per piccole imbarcazioni da regata (Skiff)}
+      \field{year}{2014}
+    \endentry
+    \entry{art:Madgwick}{article}{}
+      \name{author}{1}{}{%
+        {{hash=df06389cb5ce73eb54e470815ddabd84}{Sebastian\bibnamedelimb O.H.\bibnamedelimi Madgwick}{S\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim M\bibinitperiod}{R.\bibnamedelimi Vaidyanathan}{R\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{A.J.L.\bibnamedelimi Harrison}{A\bibinitperiod\bibinitdelim H\bibinitperiod}}%
+      }
+      \strng{namehash}{df06389cb5ce73eb54e470815ddabd84}
+      \strng{fullhash}{df06389cb5ce73eb54e470815ddabd84}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a novel orientation algorithm designed to support a computationally efficient, wearable inertial human motion tracking system for rehabilitation applications. It is applicable to inertial measurement units (IMUs) consisting of tri-axis gyroscopes and accelerometers, and magnetic angular rate and gravity (MARG) sensor arrays that also include tri-axis magnetometers. The MARG implementation incorporates magnetic distortion compensation. The algorithm uses a quaternion representation, allowing accelerometer and magnetometer data to be used in an analytically derived and optimised gradient descent algorithm to compute the direction of the gyroscope measurement error as a quaternion derivative. Performance has been evaluated empirically using a commercially available orientation sensor and reference measurements of orientation obtained using an optical measurement system. Performance was also benchmarked against the propriety Kalman-based algorithm of orientation sensor. Results indicate the algorithm achieves levels of accuracy matching that of the Kalman based algorithm; <; 0.8$\,^{\circ}$ static RMS error, <; 1.7$\,^{\circ}$ dynamic RMS error. The implications of the low computational load and ability to operate at small sampling rates significantly reduces the hardware and power necessary for wearable inertial movement tracking, enabling the creation of lightweight, inexpensive systems capable of functioning for extended periods of time.}
+      \field{journaltitle}{Rehabilitation Robotics (ICORR), 2011 IEEE International Conference on}
+      \field{title}{Estimation of IMU and MARG orientation using a gradient descent algorithm}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+    \endentry
+    \entry{book:elementyachtdesign}{book}{}
+      \name{author}{1}{}{%
+        {{hash=192b53af32640a49ada47d390567643f}{Skene}{S\bibinitperiod}{Norman\bibnamedelima L.}{N\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{192b53af32640a49ada47d390567643f}
+      \strng{fullhash}{192b53af32640a49ada47d390567643f}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Elements of Yacht Design}
+      \field{year}{1904}
+    \endentry
+    \entry{book:allthis}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5384b7f398c79decfa581907aa908153}{Stephens}{S\bibinitperiod}{Olin\bibnamedelima J.}{O\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5384b7f398c79decfa581907aa908153}
+      \strng{fullhash}{5384b7f398c79decfa581907aa908153}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{All This And Sailing, Too}
+      \field{year}{1999}
+    \endentry
+    \entry{book:TAC11}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b16b850c869615693dd16515c6e8e13b}{Vallicelli}{V\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=060b919240920e4427ff2650201cbe9c}{Editori}{E\bibinitperiod}{Sala}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b16b850c869615693dd16515c6e8e13b}
+      \strng{fullhash}{b16b850c869615693dd16515c6e8e13b}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TAC 11 Design Nautico, riflessioni tematiche ed esercitazioni progettuali}
+      \field{year}{2002}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

@@ -3,9 +3,16 @@
 \usepackage[utf8]{inputenc}			%codifica caratteri (accenti)
 \usepackage[english, italian]{babel}	%sillabazione, per ultimo il dizionario principale
 
- \usepackage[autostyle,italian=guillemets]{csquotes}
- \usepackage[backend=biber]{biblatex}
+\usepackage[autostyle,italian=guillemets]{csquotes}
+\usepackage[backend=biber]{biblatex}
 \addbibresource{biblio.bib}
+
+\newenvironment{chapabstract}{%
+	\begin{center}%
+		\bfseries Abstract
+	\end{center}}%
+	{\par}
+
 
 % Title Page
 \title{Design di una nuova imbarcazione}
@@ -26,6 +33,7 @@
 \input{capitoli/coefficienti}
 \input{capitoli/stabilita}
 \input{capitoli/dinamica}
+\input{capitoli/storia}
 
 \nocite{*}
 \printbibliography
