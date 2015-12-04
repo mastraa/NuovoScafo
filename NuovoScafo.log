@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.31)  2 DEC 2015 20:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.1)  3 DEC 2015 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -293,19 +293,62 @@ Language: italian 2015/03/26 v1.3n Italian support from the babel system
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count92
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2015/07/18 v5.1f context-sensitive quotations (JAW)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-\csq@reset=\count93
-\csq@gtype=\count94
-\csq@glevel=\count95
-\csq@qlevel=\count96
-\csq@maxlvl=\count97
-\csq@tshold=\count98
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+)
+\c@ContinuedFloat=\count94
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2015/07/18 v5.1f context-sensitive quotations (JAW)
+\csq@reset=\count95
+\csq@gtype=\count96
+\csq@glevel=\count97
+\csq@qlevel=\count98
+\csq@maxlvl=\count99
+\csq@tshold=\count100
 \csq@ltx@everypar=\toks17
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.def
@@ -330,15 +373,9 @@ B)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 
@@ -353,7 +390,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count99
+\lrq@indent=\count101
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -365,44 +402,44 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count100
-\c@listtotal=\count101
-\c@listcount=\count102
-\c@liststart=\count103
-\c@liststop=\count104
-\c@citecount=\count105
-\c@citetotal=\count106
-\c@multicitecount=\count107
-\c@multicitetotal=\count108
-\c@instcount=\count109
-\c@maxnames=\count110
-\c@minnames=\count111
-\c@maxitems=\count112
-\c@minitems=\count113
-\c@citecounter=\count114
-\c@savedcitecounter=\count115
-\c@uniquelist=\count116
-\c@uniquename=\count117
-\c@refsection=\count118
-\c@refsegment=\count119
-\c@maxextratitle=\count120
-\c@maxextratitleyear=\count121
-\c@maxextrayear=\count122
-\c@maxextraalpha=\count123
-\c@abbrvpenalty=\count124
-\c@highnamepenalty=\count125
-\c@lownamepenalty=\count126
-\c@maxparens=\count127
-\c@parenlevel=\count128
-\blx@tempcnta=\count129
-\blx@tempcntb=\count130
-\blx@tempcntc=\count131
-\blx@maxsection=\count132
-\blx@maxsegment@0=\count133
-\blx@notetype=\count134
-\blx@parenlevel@text=\count135
-\blx@parenlevel@foot=\count136
-\blx@sectionciteorder@0=\count137
+\c@tabx@nest=\count102
+\c@listtotal=\count103
+\c@listcount=\count104
+\c@liststart=\count105
+\c@liststop=\count106
+\c@citecount=\count107
+\c@citetotal=\count108
+\c@multicitecount=\count109
+\c@multicitetotal=\count110
+\c@instcount=\count111
+\c@maxnames=\count112
+\c@minnames=\count113
+\c@maxitems=\count114
+\c@minitems=\count115
+\c@citecounter=\count116
+\c@savedcitecounter=\count117
+\c@uniquelist=\count118
+\c@uniquename=\count119
+\c@refsection=\count120
+\c@refsegment=\count121
+\c@maxextratitle=\count122
+\c@maxextratitleyear=\count123
+\c@maxextrayear=\count124
+\c@maxextraalpha=\count125
+\c@abbrvpenalty=\count126
+\c@highnamepenalty=\count127
+\c@lownamepenalty=\count128
+\c@maxparens=\count129
+\c@parenlevel=\count130
+\blx@tempcnta=\count131
+\blx@tempcntb=\count132
+\blx@tempcntc=\count133
+\blx@maxsection=\count134
+\blx@maxsegment@0=\count135
+\blx@notetype=\count136
+\blx@parenlevel@text=\count137
+\blx@parenlevel@foot=\count138
+\blx@sectionciteorder@0=\count139
 \labelnumberwidth=\skip43
 \labelalphawidth=\skip44
 \biblabelsep=\skip45
@@ -413,81 +450,81 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip50
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count138
-\c@maxcomprange=\count139
-\c@mincompwidth=\count140
+\c@mincomprange=\count140
+\c@maxcomprange=\count141
+\c@mincompwidth=\count142
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count141
-\c@savedafterword=\count142
-\c@annotator=\count143
-\c@savedannotator=\count144
-\c@author=\count145
-\c@savedauthor=\count146
-\c@bookauthor=\count147
-\c@savedbookauthor=\count148
-\c@commentator=\count149
-\c@savedcommentator=\count150
-\c@editor=\count151
-\c@savededitor=\count152
-\c@editora=\count153
-\c@savededitora=\count154
-\c@editorb=\count155
-\c@savededitorb=\count156
-\c@editorc=\count157
-\c@savededitorc=\count158
-\c@foreword=\count159
-\c@savedforeword=\count160
-\c@holder=\count161
-\c@savedholder=\count162
-\c@introduction=\count163
-\c@savedintroduction=\count164
-\c@namea=\count165
-\c@savednamea=\count166
-\c@nameb=\count167
-\c@savednameb=\count168
-\c@namec=\count169
-\c@savednamec=\count170
-\c@translator=\count171
-\c@savedtranslator=\count172
-\c@shortauthor=\count173
-\c@savedshortauthor=\count174
-\c@shorteditor=\count175
-\c@savedshorteditor=\count176
-\c@labelname=\count177
-\c@savedlabelname=\count178
-\c@institution=\count179
-\c@savedinstitution=\count180
-\c@lista=\count181
-\c@savedlista=\count182
-\c@listb=\count183
-\c@savedlistb=\count184
-\c@listc=\count185
-\c@savedlistc=\count186
-\c@listd=\count187
-\c@savedlistd=\count188
-\c@liste=\count189
-\c@savedliste=\count190
-\c@listf=\count191
-\c@savedlistf=\count192
-\c@location=\count193
-\c@savedlocation=\count194
-\c@organization=\count195
-\c@savedorganization=\count196
-\c@origlocation=\count197
-\c@savedoriglocation=\count198
-\c@origpublisher=\count199
-\c@savedorigpublisher=\count266
-\c@publisher=\count267
-\c@savedpublisher=\count268
-\c@language=\count269
-\c@savedlanguage=\count270
-\c@pageref=\count271
-\c@savedpageref=\count272
+\c@afterword=\count143
+\c@savedafterword=\count144
+\c@annotator=\count145
+\c@savedannotator=\count146
+\c@author=\count147
+\c@savedauthor=\count148
+\c@bookauthor=\count149
+\c@savedbookauthor=\count150
+\c@commentator=\count151
+\c@savedcommentator=\count152
+\c@editor=\count153
+\c@savededitor=\count154
+\c@editora=\count155
+\c@savededitora=\count156
+\c@editorb=\count157
+\c@savededitorb=\count158
+\c@editorc=\count159
+\c@savededitorc=\count160
+\c@foreword=\count161
+\c@savedforeword=\count162
+\c@holder=\count163
+\c@savedholder=\count164
+\c@introduction=\count165
+\c@savedintroduction=\count166
+\c@namea=\count167
+\c@savednamea=\count168
+\c@nameb=\count169
+\c@savednameb=\count170
+\c@namec=\count171
+\c@savednamec=\count172
+\c@translator=\count173
+\c@savedtranslator=\count174
+\c@shortauthor=\count175
+\c@savedshortauthor=\count176
+\c@shorteditor=\count177
+\c@savedshorteditor=\count178
+\c@labelname=\count179
+\c@savedlabelname=\count180
+\c@institution=\count181
+\c@savedinstitution=\count182
+\c@lista=\count183
+\c@savedlista=\count184
+\c@listb=\count185
+\c@savedlistb=\count186
+\c@listc=\count187
+\c@savedlistc=\count188
+\c@listd=\count189
+\c@savedlistd=\count190
+\c@liste=\count191
+\c@savedliste=\count192
+\c@listf=\count193
+\c@savedlistf=\count194
+\c@location=\count195
+\c@savedlocation=\count196
+\c@organization=\count197
+\c@savedorganization=\count198
+\c@origlocation=\count199
+\c@savedoriglocation=\count266
+\c@origpublisher=\count267
+\c@savedorigpublisher=\count268
+\c@publisher=\count269
+\c@savedpublisher=\count270
+\c@language=\count271
+\c@savedlanguage=\count272
+\c@pageref=\count273
+\c@savedpageref=\count274
 \shorthandwidth=\skip51
 \shortjournalwidth=\skip52
 \shortserieswidth=\skip53
@@ -505,13 +542,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 
-\c@textcitecount=\count273
-\c@textcitetotal=\count274
-\c@textcitemaxnames=\count275
-\c@biburlnumpenalty=\count276
-\c@biburlucpenalty=\count277
-\c@biburllcpenalty=\count278
-\c@smartand=\count279
+\c@textcitecount=\count275
+\c@textcitetotal=\count276
+\c@textcitemaxnames=\count277
+\c@biburlnumpenalty=\count278
+\c@biburlucpenalty=\count279
+\c@biburllcpenalty=\count280
+\c@smartand=\count281
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -523,8 +560,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2015/10/21 v3.1 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count280
-\c@bbx:relatedtotal=\count281
+\c@bbx:relatedcount=\count282
+\c@bbx:relatedtotal=\count283
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -557,23 +594,73 @@ Package biblatex Info: ... file 'italian.lbx' found.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
 File: italian.lbx 2015/10/21 v3.1 biblatex localization (PK/JW/AB)
 )
-(./NuovoScafo.aux)
+(./NuovoScafo.aux
+
+LaTeX Warning: Label `eq:StazzaFroude' multiply defined.
+
+)
 \openout1 = `NuovoScafo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Info: Redefining \it@ocap on input line 22.
-LaTeX Info: Redefining \it@ccap on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Info: Redefining \it@ocap on input line 25.
+LaTeX Info: Redefining \it@ccap on input line 25.
+ (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen114
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -581,7 +668,8 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'NuovoScafo.bbl' found.
- (./NuovoScafo.bbl
+
+(./NuovoScafo.bbl
 
 Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'art:sounding':
@@ -596,14 +684,14 @@ Package biblatex Warning: Biber reported the following issues
 id format 'http://www.x-io.co.uk' of date field 'urldate' - ignoring.
 
 )
-Package biblatex Info: Reference section=0 on input line 22.
-Package biblatex Info: Reference segment=0 on input line 22.
+Package biblatex Info: Reference section=0 on input line 25.
+Package biblatex Info: Reference segment=0 on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
+(Font)              <12> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
+(Font)              <8> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
+(Font)              <6> on input line 26.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -636,33 +724,50 @@ Capitolo 4.
 Capitolo 5.
 [9
 
-] [10]) [11]
+] [10] [11] [12]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 136.
+
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 136.
+ <img/catena.png, id=60, 567.11874pt x 602.25pt>
+File: img/catena.png Graphic file (type png)
+ <use img/catena.png>
+Package pdftex.def Info: img/catena.png used on input line 146.
+(pdftex.def)             Requested size: 142.26393pt x 142.26393pt.
+ [13]
+[14 <./img/catena.png>]) [15]
 
 Package biblatex Warning: No driver for entry type 'url'.
-(biblatex)                Using fallback driver on input line 39.
+(biblatex)                Using fallback driver on input line 42.
 
 
-Overfull \hbox (4.69571pt too wide) in paragraph at lines 40--40
+Overfull \hbox (4.69571pt too wide) in paragraph at lines 43--43
 []\T1/cmr/m/n/10.95 Sebastian O.H. Madg-wick. \T1/cmr/m/it/10.95 http://www.x-i
 o.co.uk/open-source-imu-and-
  []
 
 
 Package biblatex Warning: No driver for entry type 'jurthesis'.
-(biblatex)                Using fallback driver on input line 39.
+(biblatex)                Using fallback driver on input line 42.
 
-[12
+[16
 
 ] (./NuovoScafo.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'NuovoScafo.run.xml'.
 \openout1 = `NuovoScafo.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 7454 strings out of 493054
- 123684 string characters out of 6134759
- 537874 words of memory out of 5000000
- 10898 multiletter control sequences out of 15000+600000
+ 9420 strings out of 493054
+ 156100 string characters out of 6134760
+ 569437 words of memory out of 5000000
+ 12813 multiletter control sequences out of 15000+600000
  16480 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,6n,45p,1758b,1140s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -680,10 +785,10 @@ ve/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/201
 5/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on NuovoScafo.pdf (14 pages, 228700 bytes).
+Output written on NuovoScafo.pdf (18 pages, 264965 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 118 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

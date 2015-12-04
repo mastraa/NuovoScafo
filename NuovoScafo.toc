@@ -54,8 +54,22 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.4}Stazze}{10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.1}Tonnage Rule}{11}
+\contentsline {subsection}{\numberline {5.4.1}Tonnage Rule - Builder's Old Measurement}{11}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.4.2}Stazza del Tamigi}{11}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.4.3}In America}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.4}Dixon Kemp}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.5}Prime Stazze Lineari}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.6}Parallelamente in Francia}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.7}Stazza Internazionale}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.8}In America}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.9}Lo IOR: una Regola Mondiale}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.10}Conclusioni}{14}
